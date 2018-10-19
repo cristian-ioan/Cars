@@ -1,8 +1,7 @@
 public class Bus extends Vehicle {
 
     public Bus(){
-        super.getSpeed();
-        super.getGear();
+        super();
     }
 
     @Override
